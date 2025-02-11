@@ -25,6 +25,7 @@
     "plugins",
     "sql"
   ],
+"license": "MIT",
   "license": "MIT",
   "keywords": [
     "whatsapp-bot",
