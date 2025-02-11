@@ -7,23 +7,23 @@
   "success_url": "/",
   "env": {
     "SESSION_ID": {
-      "description": "SESSION HERE",
+      "description": "XSTRO_90_65_90",
       "required": true
     },
     "SUDO": {
-      "description": "ADMIN USERS NUMBERS",
+      "description": "2348189839139",
       "value": "",
-      "required": false
+      "required": true
     },
     "BOT_INFO": {
-      "description": "BOT OWNER AND BOT NAME",
+      "description": "RapChuLarh; ChuLarh",
       "value": "αѕтяσχ11;χѕтяσ м∂",
-      "required": false
+      "required": true
     },
     "TIME_ZONE": {
       "description": "TIMEZONE",
-      "value": "Asia/Kolkata",
-      "required": false
+      "value": "Africa/Lagos",
+      "required": true
     },
     "WARN_COUNT": {
       "description": "WARNINGS BEFORE ACTIONS",
