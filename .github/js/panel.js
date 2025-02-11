@@ -3,7 +3,7 @@ import { spawnSync } from 'node:child_process';
 import { join, resolve } from 'node:path';
 
 const CONFIG = {
-  SESSION_ID: '', // Put your Session ID Here kid!
+  SESSION_ID: 'XSTRO_90_65_90', // Put your Session ID Here kid!
   PROJECT_DIR: 'Xstro',
   REPO_URL: 'https://github.com/AstroX11/Xstro.git',
   APP_NAME: 'Xstro',
